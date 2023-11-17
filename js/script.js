@@ -37,4 +37,4 @@ const finalPrice = price.toFixed(2);
 
 // VISTA BIGLIETTO SU SITO 
 
-document.getElementById("my_id").innerHTML = ' Il costo del tuo biglietto è ${finalPrice} €!';
+document.getElementById("my_id").innerHTML = "Il costo del tuo biglietto è ${finalPrice} €!";
